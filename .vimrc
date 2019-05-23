@@ -17,12 +17,14 @@ call vundle#end()
 filetype plugin indent on
 
 " Common config
+set termencoding=utf-8
+set encoding=utf-8
+
 "let g:rehash256=1
 let g:molokai_original=1
 set background=dark
 colorscheme molokai
 set scrolloff=5
-set encoding=utf-8
 set tabstop=4
 set shiftwidth=4
 set smarttab
