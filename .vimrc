@@ -46,6 +46,10 @@ set autochdir
 " let &t_EI.="\e[1 q"
 " let &t_te.="\e[0 q"
 
+" 自动补全
+set wildmenu
+set laststatus=2
+
 
 " autocomplete big parantheses
 "let s:targetExt = ["c","cpp","cc","php","java"]
