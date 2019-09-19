@@ -48,7 +48,7 @@ set autochdir
 
 " 自动补全
 set wildmenu
-set laststatus=2
+" set laststatus=2
 
 
 " autocomplete big parantheses
