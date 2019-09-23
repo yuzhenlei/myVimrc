@@ -50,6 +50,9 @@ set autochdir
 set wildmenu
 " set laststatus=2
 
+" 用于wsl环境
+" using the current background color (from the Vim color scheme) instead of relying on that specific Terminal's implementation of Background Color Erase (BCE) mode
+set t_ut=""
 
 " autocomplete big parantheses
 "let s:targetExt = ["c","cpp","cc","php","java"]
