@@ -19,7 +19,7 @@ filetype plugin indent on
 " Common config
 set termencoding=utf-8
 set encoding=utf-8
-
+set t_Co=256
 "let g:rehash256=1
 let g:molokai_original=1
 set background=dark
