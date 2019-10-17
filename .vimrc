@@ -11,7 +11,8 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
 Plugin 'bling/vim-airline'
-Plugin 'git://git.wincent.com/command-t.git'
+" command-t require ruby-support
+" Plugin 'git://git.wincent.com/command-t.git' 
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 call vundle#end()
 filetype plugin indent on
