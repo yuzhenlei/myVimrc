@@ -71,10 +71,10 @@ let g:ctrlp_cmd = 'CtrlP'
 let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn|pyc)$' 
  
 " disable up,down,left,right btn
-imap <DOWN>  <ESC><NOP> 
-imap <LEFT>  <ESC><NOP> 
-imap <RIGHT>  <ESC><NOP>  
-imap <UP>  <ESC><NOP>  
+" imap <DOWN>  <ESC><NOP> 
+" imap <LEFT>  <ESC><NOP> 
+" imap <RIGHT>  <ESC><NOP>  
+" imap <UP>  <ESC><NOP>  
 nmap <DOWN>  <NOP> 
 nmap <LEFT>   <NOP>
 nmap <RIGHT>  <NOP> 
