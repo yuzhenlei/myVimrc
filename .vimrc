@@ -91,7 +91,7 @@ map <F10>- :vert res -2<ESC><F10>
 map <F10>= :vert res +2<ESC><F10>
 
 " Autocomplete map [ to [_]
-imap [ []<ESC>i
+" imap [ []<ESC>i
 
 " NERDTree Config
 nmap <F2> :NERDTreeToggle<CR>
